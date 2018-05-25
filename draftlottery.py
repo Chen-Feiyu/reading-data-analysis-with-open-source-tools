@@ -1,7 +1,7 @@
 """
 Use loess to smooth the data of vietnam draft lottery, 1969. This script is mo-
 dified from the workshop 2 from the book Data Analysis with Open Source Tools.
-The data of draft lottery are downloaded from 
+The data of draft lottery (datasets/draftlottery.txt) are downloaded from 
 http://www.randomservices.org/random/data/Draft.html
 """
 
